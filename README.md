@@ -1,3 +1,3 @@
-# CSCI_596_Final_Project
+# CSCI 596 Final Project
  
-Scientific Computing and Visualization Project 
+Scientific Computing and Visualization Final Project 
