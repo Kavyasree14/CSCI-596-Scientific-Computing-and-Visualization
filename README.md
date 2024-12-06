@@ -188,12 +188,17 @@ To ensure GPU usage:
    - <img width="923" alt="Screenshot 2024-12-06 at 3 23 30 AM" src="https://github.com/user-attachments/assets/c10de5e1-c7cc-407b-a337-dd1f016dd34d">
 2. **Advanced Visualization**:
    - Include bonds between atoms to visualize the full protein structure.
+     
+
+https://github.com/user-attachments/assets/d1519ab5-9c41-4f49-af92-d81e5ae8e929
+
+
 3. **Improved Model Architecture**:
    - Experiment with more advanced deep learning models (e.g., Transformers).
 4. **Protein Folding Analysis**:
    - Calculate metrics like RMSD (Root Mean Square Deviation) for validation.
+<img width="603" alt="Screenshot 2024-12-06 at 3 30 02 AM" src="https://github.com/user-attachments/assets/37773b0e-13d6-4884-9e7d-c6e6cfb6f1e1">
 
----
 
 ## **Acknowledgments**
 
@@ -204,11 +209,6 @@ To ensure GPU usage:
 
 ---
 
-## **License**
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## **Contact**
 
