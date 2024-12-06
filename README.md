@@ -159,9 +159,8 @@ Here’s how the visualization might look:
 
 ### **Training Loss Curve**
 After 50 epochs of training, the loss curve is:
-![Training Loss Curve](link-to-image)
+<img width="634" alt="Screenshot 2024-12-06 at 3 14 28 AM" src="https://github.com/user-attachments/assets/d00ee0f1-5c88-4a16-8bc8-5d027b82dcca">
 
----
 
 ## **GPU Acceleration**
 
