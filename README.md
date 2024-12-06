@@ -10,6 +10,7 @@ Protein folding is a critical biological process where a protein assumes its fun
 I chose this project because it combines molecular simulations and machine learning, offering a powerful, scalable solution for real-time protein analysis.
 
 **Project Workflow**
+
 Input:
  
  -Protein structures in PDB format are cleaned and preprocessed using PDBFixer.
