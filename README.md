@@ -143,11 +143,10 @@ The 3D visualization displays the folding process in real time:
 
 ### **Example Snapshot**
 Here’s how the visualization might look:
-<img width="1512" alt="Screenshot 2024-12-02 at 9 37 01 PM" src="https://github.com/user-attachments/assets/c281f75c-31de-4a04-b97b-43df94880770">
 
-![3D Protein Visualization](link-to-image)
 
----
+---<img width="499" alt="Screenshot 2024-12-06 at 3 22 17 AM" src="https://github.com/user-attachments/assets/30a4d643-c32a-4ca8-a2bc-3b5a3de6f190">
+
 
 ## **Model Training**
 
@@ -187,6 +186,7 @@ To ensure GPU usage:
 
 1. **Expand Training Data**:
    - Use more PDB files to train the ML model on diverse protein structures.
+   - <img width="923" alt="Screenshot 2024-12-06 at 3 23 30 AM" src="https://github.com/user-attachments/assets/c10de5e1-c7cc-407b-a337-dd1f016dd34d">
 2. **Advanced Visualization**:
    - Include bonds between atoms to visualize the full protein structure.
 3. **Improved Model Architecture**:
