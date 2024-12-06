@@ -1,8 +1,5 @@
 # CSCI 596 Final Project
  
-Here is your complete and polished **README.md** file, tailored for a GitHub repository and your class presentation.
-
----
 
 # **Protein Folding Simulation with Machine Learning**
 
