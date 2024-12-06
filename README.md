@@ -11,13 +11,17 @@ I chose this project because it combines molecular simulations and machine learn
 
 **Project Workflow**
 Input:
-Protein structures in PDB format are cleaned and preprocessed using PDBFixer.
+ 
+ -Protein structures in PDB format are cleaned and preprocessed using PDBFixer.
+ 
 Simulation:
-OpenMM models the folding process using accurate force fields.
+ -OpenMM models the folding process using accurate force fields.
+ 
 Visualization:
-PyVista renders the 3D protein structure in real time, updating atom positions dynamically.
+ -PyVista renders the 3D protein structure in real time, updating atom positions dynamically.
+ 
 Machine Learning:
-A neural network trained on augmented protein data predicts the folded structure.
+ -A neural network trained on augmented protein data predicts the folded structure.
 
 ---
 
