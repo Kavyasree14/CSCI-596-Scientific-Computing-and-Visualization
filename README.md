@@ -5,6 +5,18 @@
 
 This project demonstrates a **protein folding simulation** integrated with **machine learning** to predict protein structures dynamically. Using **OpenMM**, we simulate the molecular dynamics of a protein, visualize it in 3D using **PyVista**, and leverage a machine learning model for real-time structure predictions. GPU acceleration is integrated to ensure high performance.
 
+Why This Project?
+Protein folding is a critical biological process where a protein assumes its functional 3D shape. Misfolding can cause diseases like Alzheimer’s and Parkinson’s, while accurate folding is essential for drug design and biotechnology.
+I chose this project because it combines molecular simulations and machine learning, offering a powerful, scalable solution for real-time protein analysis.
+
+Input:
+Protein structures in PDB format are cleaned and preprocessed using PDBFixer.
+Simulation:
+OpenMM models the folding process using accurate force fields.
+Visualization:
+PyVista renders the 3D protein structure in real time, updating atom positions dynamically.
+Machine Learning:
+A neural network trained on augmented protein data predicts the folded structure.
 ---
 
 ## **Table of Contents**
