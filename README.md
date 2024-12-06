@@ -143,6 +143,7 @@ The 3D visualization displays the folding process in real time:
 
 ### **Example Snapshot**
 Here’s how the visualization might look:
+<img width="1512" alt="Screenshot 2024-12-02 at 9 37 01 PM" src="https://github.com/user-attachments/assets/c281f75c-31de-4a04-b97b-43df94880770">
 
 ![3D Protein Visualization](link-to-image)
 
