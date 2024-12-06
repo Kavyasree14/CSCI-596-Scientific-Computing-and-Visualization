@@ -43,9 +43,9 @@ Machine Learning:
 ## **Overview**
 
 Protein folding is a fundamental biological process where a protein assumes its functional three-dimensional shape, critical for its biological function. This project integrates **molecular dynamics simulations**, **machine learning**, and **3D visualization** to:
-1. Simulate protein folding dynamics using **OpenMM**.
-2. Visualize the folding process in **real-time 3D** using **PyVista**.
-3. Predict protein structures dynamically with a trained neural network.
+1. First, I used **OpenMM** to simulate protein folding dynamics, starting with a PDB file to model the molecular forces accurately
+2. Second, I leveraged **PyVista** for real-time 3D visualization of the protein structure. Atoms are represented as spheres, and the visualization dynamically updates during the folding process, with an interactive slider to control simulation steps. 
+3. Lastly, I built a neural network using PyTorch to predict protein structures in real time based on atom coordinates, enabling real-time insights during the simulation.
 
 ---
 
