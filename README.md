@@ -12,8 +12,7 @@ I chose this project because it combines molecular simulations and machine learn
 **Project Workflow**
 
 Input:
- 
- -Protein structures in PDB format are cleaned and preprocessed using PDBFixer.
+  -Protein structures in PDB format are cleaned and preprocessed using PDBFixer.
  
 Simulation:
  -OpenMM models the folding process using accurate force fields.
